@@ -4,8 +4,6 @@ permalink: /about/
 title: About
 ---
 
-# About
-
 ## ...the blog
 
 "João on X" is a hobby of mine, so there is no set cadency for posts nor a specific subject (that's what the X is there for). I create specific sections for each subject I like to write about, but it's mostly this:
