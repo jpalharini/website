@@ -6,7 +6,7 @@ title: About
 
 ## ...the blog
 
-"João on X" is a hobby of mine, so there is no set cadency for posts nor a specific subject (that's what the X is there for). I create specific sections for each subject I like to write about, but it's mostly this:
+"João on X" is a hobby of mine, so there is no set cadency for posts nor a specific subject (that's what the X is there for). Posts will be tagged by categories and, in the future, I'll look for ways to filter them.
 
 - Tech - infosec, Apple, programming, tips & tricks...
 - Cars - mainly thoughts about the market in Brazil and sharing my experiences
