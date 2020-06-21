@@ -12,6 +12,8 @@ title: About
 - Cars - mainly thoughts about the market in Brazil and sharing my experiences
 - Politics - it's rare, but when something gets me started...
 
+----
+
 ## ...me
 
 ### Who am I?
